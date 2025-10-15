@@ -21,7 +21,7 @@ function App() {
       <Routes>
         <Route path='/' element={<LandingPage />} />
         <Route path='/resume' element={<ResumeGenerator />} />
-        <Route path='/History' element={<History />} />
+        <Route path='/resume-history' element={<History />} />
         <Route path='/form' element={<Form />} />
         <Route path='/*' element={<PageNotFound />} />
       </Routes>

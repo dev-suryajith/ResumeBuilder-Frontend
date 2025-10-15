@@ -54,7 +54,7 @@ function Preview({ userInput, isResSuccess, resumeId, setUserInput }) {
           )}
           {/* history */}
           <p>
-            <Link href={"/History"}>
+            <Link href={"/resume-history"}>
               <button className='btn btn-primary align-items-center d-flex justify-content-center btn-lg'>
                 <FaHistory />
               </button>
