@@ -1,0 +1,7 @@
+.Toastify__progress-bar--success {
+  background: #4caf50;
+}
+
+.Toastify__progress-bar--error {
+  background: #f44336;
+}
